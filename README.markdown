@@ -4,6 +4,7 @@
 ## 原作者<br>Original Author
 * NIIBE Yutaka &lt;<gniibe@fsij.org>&gt;
 * Copyright © 2006, 2011, 2016 Free Software Initiative of Japan
+* The original program is copied from <http://git.gniibe.org/gitweb/?p=gnuk/gnuk.git;a=blob_plain;f=tool/hub_ctrl.py>
 
 ## 目前維護者<br>Current Maintainer
 林博仁 &lt;<Buo.Ren.Lin@gmail.com>&gt;
