@@ -9,7 +9,7 @@
 林博仁 &lt;<Buo.Ren.Lin@gmail.com>&gt;
 
 ## 智慧財產授權條款<br>Intellectual Property License
-GNU General Public License, version 3 and any recent versions(inherit from original project)
+GNU General Public License, version 3 and any recent versions(inherited from original project)
 
 ```
 這個專案介紹文件是基於專案介紹文件範本
